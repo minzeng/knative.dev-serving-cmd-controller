@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:5f118d434661a895096c69c036de20c962aee445e339cc9e1b1bf806895d6fa2
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:8b2b5d06ab5b3bbbe0f40393b3e39f6aceb80542d5cfbab97e89758b59b5ef6e
 MAINTAINER Tony <tony@hostscc.com>
